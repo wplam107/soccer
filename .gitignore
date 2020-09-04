@@ -136,3 +136,6 @@ players.json
 teams.json
 tags2name.csv
 eventid2name.csv
+
+# Credential file
+config.ini
