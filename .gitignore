@@ -139,3 +139,6 @@ eventid2name.csv
 
 # Credential file
 config.ini
+
+# Pickles
+*.p
